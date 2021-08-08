@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  background-color: lightblue;
+  opacity: inherit;
+}
+
+.introduction {
+  font-size: medium;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: rgb(168, 20, 20);
+  text-align: center;
+}
+
+hr {
+  border: solid;
+}
